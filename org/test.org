@@ -1,0 +1,14 @@
+#+TITLE: Example Org File
+#+AUTHOR:  wuguipeng
+#+DATE: <2022-08-08 Mon>
+
+** Revamp orgmode.org website
+
+The /beauty/ of org *must*
+
+** 营销任务监控模块, 任务详情查询,待确认
+** 菜单管理， 待确认
+** 短信，邮箱具体实现，文档
+** 获取标签库接口具体实现，文档
+** 标签管理系统名单导入具体实现，文档
+** 表达式校验具体实现，文档

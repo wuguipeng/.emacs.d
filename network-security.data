@@ -1,0 +1,4 @@
+;;;; -*- mode: lisp-data -*-
+(
+ (:id "sha1:ecb6b93f7504027ebcccbd6019726f76a8331946" :fingerprints ("sha1:e8:9c:67:e3:af:94:59:17:71:c7:e5:59:43:92:1c:90:b4:13:06:3b") :host "dnspod.qcloud.com:443" :conditions (:invalid-ocsp-status :invalid :verify-cert))
+)

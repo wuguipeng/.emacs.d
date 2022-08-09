@@ -1,0 +1,11 @@
+;;; -*- coding: utf-8; mode: lisp-data -*-
+(("/Users/wuguipeng/.emacs.d/lisp/init-completion.el" . 359)
+ ("/Users/wuguipeng/.emacs.d/init.el" . 251)
+ ("/Users/wuguipeng/.emacs.d/lisp/init-ui.el" . 601)
+ ("/Users/wuguipeng/.emacs.d/lisp/init-better-defaults.el" . 995)
+ ("/Users/wuguipeng/.emacs.d/elpa/doom-modeline-20220628.1811/doom-modeline-autoloads.el" . 4057)
+ ("/Users/wuguipeng/.emacs.d/elpa/shrink-path-20190208.1335/shrink-path-autoloads.el" . 411)
+ ("/Users/wuguipeng/.emacs.d/elpa/f-20220608.943/f-autoloads.el" . 427)
+ ("/Users/wuguipeng/.emacs.d/elpa/s-20210616.619/s-autoloads.el" . 351)
+ ("/Users/wuguipeng/.emacs.d/elpa/dash-20220608.1931/dash-autoloads.el" . 2856)
+ ("/Users/wuguipeng/.emacs.d/elpa/doom-themes-20220622.2317/doom-themes-autoloads.el" . 19971))
