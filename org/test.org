@@ -1,7 +1,0 @@
-#+TITLE: MWE of LaTeX export
-
-This is a \colortext{Blue}{minimal} working example for \LaTeX export of org file
-
-这是 org 文件导出为 \LaTeX 文档的最小工作实例.
-
-
