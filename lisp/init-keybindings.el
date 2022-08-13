@@ -31,4 +31,9 @@
 (global-set-key (kbd "C-s") 'consult-line)
 ;; 搜索函数
 (global-set-key (kbd "M-s i") 'consult-imenu)
+
+;; org
+(global-set-key (kbd "C-c r") 'org-capture)
+(global-set-key (kbd "C-c a") 'org-agenda)
+
 (provide 'init-keybindings)
