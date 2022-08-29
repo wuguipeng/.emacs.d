@@ -100,4 +100,18 @@
 ;;; 设置默认的class为ctexart
 (setq org-latex-default-class "ctexart")
 
+
+;; 格式化当前 buffer
+(defun anne-indent-current-buffer ()
+  (interactive)
+  (save-excursion
+    (indent-region (point-min) (point-max) nil)))
+
+(global-set-key [f5] 'anne-indent-current-buffer)
+(require 'org-modern)
+(global-org-modern-mode)
+
+;;(require 'org-bars)
+;;(add-hook 'org-mode-hook #'org-bars-mode)
+
 (provide 'init-org)
